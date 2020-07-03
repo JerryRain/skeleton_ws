@@ -1,0 +1,2 @@
+skeleton_markers
+-DCATKIN_DEVEL_PREFIX=/home/jerryrain/skeleton_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jerryrain/skeleton_ws/install -G Unix Makefiles
